@@ -38,3 +38,6 @@
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-%23430098?logo=Heroku&logoColor=white"/>
   </a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarrthiJasrotia&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
