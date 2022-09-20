@@ -40,5 +40,5 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarrthiJasrotia&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SarrthiJasrotia&show_icons=true&count_private=true&theme=synthwave">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SarrthiJasrotia&layout=compact&theme=synthwave">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SarrthiJasrotia&show_icons=true&count_private=true&theme=highcontrast">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SarrthiJasrotia&layout=compact&theme=highcontrast">
