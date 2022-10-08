@@ -1,4 +1,6 @@
-# Hi there 👋, I am Sarrthi Jasrotia
+# Hi there 👋,
+## My name is Sarrthi Jasrotia, I am a software developer. I have been interested in the field of Tech since a very young age and have always found the way technology works fascinating. I spent the last 4-5 years involved with the hardware side of things such as robotics through competing at state and national levels, and industrial machine learning at my career technical school. I decided to pivot to software development because of it being more flexible hence giving me more time to spend doing other things I love such as travel, mtb, hiking etc.
+
 
 
 
